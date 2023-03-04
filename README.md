@@ -1,0 +1,2 @@
+# Python.ufuk
+Python Denemelerim
